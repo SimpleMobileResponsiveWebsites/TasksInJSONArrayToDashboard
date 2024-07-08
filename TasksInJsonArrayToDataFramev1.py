@@ -23,7 +23,7 @@ def download_csv(df):
 
 # Streamlit app layout
 def main():
-    st.title('Data Science App with Streamlit')
+    st.title('Tasks In JSON Array To Data Frame v1 To CSV')
     st.subheader('Input Task JSON Array')
 
     # Text area for JSON input
